@@ -22,7 +22,7 @@ npm start
 ```
 
 
- How to Test:
+ ## How to Test:
 
 -Add Task: Type in the input and press Enter or click Add.</br>
 -Mark Complete: Check the box next to a task.</br>
